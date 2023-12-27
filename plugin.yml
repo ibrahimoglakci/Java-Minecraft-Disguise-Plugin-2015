@@ -1,0 +1,13 @@
+name: TodDisguise
+version: 1.0
+author: TeamOfDevelopers
+main: me.xLiqhtmare.RandomDisguise.Main
+commands:
+   d:
+    aliases: [disguise]
+   ud:
+    aliases: [undisguise]
+   uuid:
+   dc:
+    aliases: [disguisecheck]
+   rd:
